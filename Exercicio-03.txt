@@ -1,0 +1,82 @@
+Descrição: exercício em dupla ou trio com intuito de 
+modificar um site simples hospedado no gitpages. 
+As alterações devem seguir um dos temas descritos 
+mais a baixo.
+
+
+Antes de inciar deve-se definir quem vair ser o dono do 
+repositório ele deve fazer o seguinte:
+- Fazer fork deste repositório 
+https://github.com/aluno-jvc/template-html-css
+- Ir em Settings/Pages - Build and deployment e dar save na main
+- Ir em collaborators e convidar os integrantes 
+
+
+Tarefas: Esse exercício é separado em tarefas, 
+cada integrante do grupo deverá pegar uma tarefa 
+por vez para resolver. Para cada tarefa deve
+ser criada uma branch e ser seguida a dinâmica 
+aprendida (commits, pull requets, merge)
+
+
+A) Alterar o nome da página dentro da tag <title>
+B) Alterar o título dentro da tag <h1>	
+C) Alterar o parágrafo dentro da tag <p>
+D) Alterar o link dentro da tag <a>
+
+E) Alterar a cor de fundo no rgb do background-color do body
+F) Alterar a cor do título no rgb do h1
+G) Alterar a cor do título no rgb do p
+
+I) Alterar o titulo do README
+J) Alterar o texto do README
+K) Adicionar o link do github dos integrantes
+
+Dicas: 
+1- Tentem não editar o mesmo arquivo ao mesmo tempo, 
+então separem bem as tarefas entre os integrantes. 
+Caso isso ocorra aparecerá um conflito na hora do merge,
+pare resolver, chamem o joão.
+2- Cuidado ao fazer o pull request, 
+na base pode aparecer outro repositório.
+
+Opções de temas:
+
+ChatGPT
+A) ChatGPT
+B) Sobre o ChatGPT
+C) ChatGPT é um chatbot online de inteligência artificial 
+desenvolvido pela OpenAI, lançado em novembro de 2022. 
+O nome "ChatGPT" combina "Chat", referindo-se à sua funcionalidade 
+de chatbot, e "GPT", que significa Generative Pre-trained Transformer, 
+um tipo de modelo de linguagem grande.
+D) https://chat.openai.com/auth/login
+E) (16,163,127)
+F) (247,247,247)
+G) (247,247,247)
+I) # Site inforativo sobre o ChatGPT
+J) Criado durante a oficina de GitHub da Jornada do Acadêmica - ADS
+K) 
+Nome própio - https://github.com/usuario-git
+Nome própio - https://github.com/usuario-git
+Nome própio - https://github.com/usuario-git
+	
+Twitch
+A) Twitch
+B) Sobre a Twitch
+C) Twitch é um serviço de streaming de vídeo ao vivo
+ que se concentra em streaming ao vivo de videogame, 
+incluindo transmissões de competições de esportes 
+eletrônicos. Além disso, oferece transmissões de música, 
+conteúdo criativo e mais recentemente, streams "na vida real".
+D) https://www.twitch.tv/
+E) (92 22 197)
+F) (255,55,555)
+G) (255,55,555)
+I) # Site inforativo sobre a Twitch
+J) Criado durante a oficina de GitHub da Jornada do Acadêmica - ADS
+K) 
+Nome própio - https://github.com/usuario-git
+Nome própio - https://github.com/usuario-git
+Nome própio - https://github.com/usuario-git
+
